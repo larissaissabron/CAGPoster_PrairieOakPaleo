@@ -7,10 +7,10 @@ Supporting documentation for the poster "Gronding research in place: Paleoecolog
 # Prairie Oak Ecosystems Need Fire
 ......paste poster text here...
 
-# Methodological Disconnect
+# Improving Paleoecological Data
 ......paste poster text here...
 
-# Recommended Approach
+# Methodological Adaptations
 ......paste poster text here...
 
 # Regional Research Gaps
