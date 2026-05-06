@@ -1,11 +1,15 @@
 # CAGPoster_PrairieOakPaleo
 Supporting documentation for the poster "Gronding research in place: Paleoecology guided by Indigenous Fire Stewardship and ecosystem diversity" presented by Larissa Bron at the annual CAG/CARTO conference in June 2026.
 
-# Poster PDF
+## Poster PDF
 .....put the link in here....
 
-# Prairie Oak Ecosystems Need Fire
+## Prairie Oak Ecosystems Need Fire
 ......paste poster text here...
+
+### Supporting Research
+#### What is in a Name?
+Garry oak 
 
 # Improving Paleoecological Data
 ......paste poster text here...
