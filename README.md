@@ -9,7 +9,9 @@ Supporting documentation for the poster "Gronding research in place: Paleoecolog
 
 ### Supporting Research
 #### What is in a Name?
-On southern Vancouver Island, many people are involved in the conservation and management of <u>Garry oak (Quercus garryana) ecosystems</u> 
+*Garry oak ecosystems are culturally important Kwetlal/ЌL̵O,EL/Camas food systems, also called prairie oak ecosystems to represent the herbaceous vegetation diversity created by Indigenous land management throughout the WPG ecoregion.*
+
+On southern Vancouver Island, many people are involved in the conservation and management of **Garry oak (Quercus garryana) ecosystems**. 
 
 # Improving Paleoecological Data
 ......paste poster text here...
