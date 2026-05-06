@@ -9,7 +9,7 @@ Supporting documentation for the poster "Gronding research in place: Paleoecolog
 
 ### Supporting Research
 #### What is in a Name?
-On southern Vancouver Island, many people are involved in the conservation and management of **Garry oak (Quercus garryana) ecosystems** 
+On southern Vancouver Island, many people are involved in the conservation and management of <u>Garry oak (Quercus garryana) ecosystems</u> 
 
 # Improving Paleoecological Data
 ......paste poster text here...
