@@ -8,10 +8,7 @@ Supporting documentation for the poster "Gronding research in place: Paleoecolog
 ......paste poster text here...
 
 ### Supporting Research
-#### What is in a Name?
-*Garry oak ecosystems are culturally important Kwetlal/ЌL̵O,EL/Camas food systems, also called prairie oak ecosystems to represent the herbaceous vegetation diversity created by Indigenous land management throughout the WPG ecoregion.*
-
-On southern Vancouver Island, many people are involved in the conservation and management of **Garry oak (Quercus garryana) ecosystems**. 
+Garry oak ecosystems are culturally important Kwetlal/ЌL̵O,EL/Camas food systems, also called prairie oak ecosystems when communicating the herbaceous vegetation diversity created by the relationship between Indigenous land management, climate, and soils found in the WPG ecoregion. 
 
 # Improving Paleoecological Data
 ......paste poster text here...
