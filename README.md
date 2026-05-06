@@ -21,7 +21,12 @@ Similar to our ecoregion, IFS has been practiced globally since before knowable 
 
 In prairie oak landscapes, the fires associated with IFS are not homogenous over a landscape, instead IFS fire regimes exhibit complex spatial and temporal patterns resulting from achieving a multiplicity of land management targets (Clark et al., 2021; Coughlan and Petty, 2013; Long et al., 2021; Roos et al., 2019; Turner, 2014), such as creating canopy openings that provide conditions for increased vegetation diversity and ecosystem structural complexity (Barlow et al., 2021; Pellatt and Gedalof, 2014). Regional IFS fire regimes are diverse, though are anticipated to commonly involve low intensity fires occurring regularly (near-annually) and non-homoegenously on the landscape.  
 
-
+----- NEXT -----
+- Culturally and ecologically important but conservation concern
+- Issues, threats, problems
+- How restoration has to confront issues, threats, problems
+- Restoration is informed by multiple knowledges, one of which is paleoecology (longest physical science perspective)
+- Lead into everything else: question - has regional paleoecology properly captured IFS and developed recommendations relevant to socioecological restoration?
 
 #3 Improving Paleoecological Data
 ......paste poster text here...
