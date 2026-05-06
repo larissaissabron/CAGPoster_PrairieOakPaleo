@@ -7,8 +7,7 @@ Supporting documentation for the poster "Gronding research in place: Paleoecolog
 ## Prairie Oak Ecosystems Need Fire
 ......paste poster text here...
 
-### Supporting Research
-Garry oak ecosystems are culturally important Kwetlal/ЌL̵O,EL/Camas food systems, also called prairie oak ecosystems when communicating the herbaceous vegetation diversity created by the relationship between Indigenous land management, climate, and soils found in the WPG ecoregion. 
+Garry oak ecosystems are culturally important Kwetlal/ЌL̵O,EL/Camas food systems, also called prairie oak ecosystems when communicating the herbaceous vegetation diversity created by the augmentation by Indigenous land management of the characteristic climate and soils found in the WPG ecoregion. 
 
 # Improving Paleoecological Data
 ......paste poster text here...
