@@ -29,7 +29,7 @@ The current state of prairie oak ecosystems is unfortunately are highly fragment
 ### Paleoecology to Support Restoration Planning
 Paleoecological research is a discpline of western science that can complement the multiple ways of knowing prairie oak ecosystems by measuring the physical components of past ecosystems that remain in the fossil record (Benton and Harper, 2009; Bottjer, 2016). No other physical science approach can provide sufficient temporal depth that matches the millennial timescales of human stewardship of prairie oak ecosystems (Manzano et al., 2020). The signatures of past ecosystem dynamics are present in fossilized charcoal, plant pollen, and ancient DNA can be used to determine historic ecosystem configuration that are resilient to landscape change (Barnosky et al., 2017), contribute to restorying ecosystem management so that it centers Indigenous land stewardship (Adlam et al., 2022; Coughlan et al., 2023), and addresses biodiversity loss through quantifying the long term fire-vegetation dynamics at relevant timescales (Bowman et al., 2011; Roos et al., 2019; Snitker et al., 2022). 
 
-#3 Improving Paleoecological Data
+## Improving Paleoecological Data
 ......paste poster text here...
 
 ## Methodological Adaptations
