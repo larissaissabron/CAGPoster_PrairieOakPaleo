@@ -5,8 +5,6 @@ Supporting documentation for the poster "Grounding research in place: Paleoecolo
 .....put the link in here....
 
 ## Prairie Oak Ecosystems Need Fire
-......paste poster text here...
-
 ### An Ecosystem by Many Names
 Garry oak ecosystems are culturally important kwetlal/ЌL̵O,EL/Camas (Camassia sp.) Indigenous food systems, that can also be called prairie oak ecosystems, or oak-associated ecosystems, when communicating the herbaceous vegetation diversity created by Indigenous land management that augments the characteristic climate and soils of the WPG ecoregion. The Garry oak (Quercus garryana) tree is commonly found in these landscapes, though it is not the sole determinant of ecosystem presence, so there is risk that many of the cultural and ecological values are obscured when solely focusing on the tree. 
 
