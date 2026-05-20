@@ -1,50 +1,93 @@
 # CAGPoster_PrairieOakPaleo
 Supporting documentation for the poster "Grounding research in place: Paleoecology guided by Indigenous Fire Stewardship and ecosystem diversity" presented by Larissa Bron at the annual CAG/CARTO conference in June 2026.
 
+## Contact information
+Email: larissabron@uvic.ca
+LinkedIn: https://www.linkedin.com/in/larissabron/
+iNaturalist: https://www.inaturalist.ca/people/larissaissabron
+
 ## Poster PDF
 .....put the link in here....
 
-## Prairie Oak Ecosystems Need Fire
-### An Ecosystem by Many Names
-Garry oak ecosystems are culturally important kwetlal/ЌL̵O,EL/Camas (Camassia sp.) Indigenous food systems, that can also be called prairie oak ecosystems, or oak-associated ecosystems, when communicating the herbaceous vegetation diversity created by Indigenous land management that augments the characteristic climate and soils of the WPG ecoregion. The Garry oak (Quercus garryana) tree is commonly found in these landscapes, though it is not the sole determinant of ecosystem presence, so there is risk that many of the cultural and ecological values are obscured when solely focusing on the tree. 
+## Literature Review
+...link to comparitive spreadsheet...
 
-Physical descriptions of prairie oak ecosystems underscore that the unifying features are the presence of extensive plant diversity and prominence of low-to-mixed tree canopy cover that lend to ecosystem structural complexity. Commonly observed plant communities include prairies and meadows (0-5% canopy), savannas (5-25% canopy), and woodlands (25-75% canopy) that exist within a landscape mosaic alongside many other communities including vernal pools, rock outcrops, coastlines and dunes, wetlands, and forests. 
+Sites:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+........
 
-### Multiple Knowledges Provide Perspectives on Indigenous Fire Stewardship
-Similar to our ecoregion, IFS has been practiced globally since before knowable time, occurring whenever humans modify natural fire patterns, "fire regimes," to maintain desired ecosystem conditions (Hoffman et al., 2021; Lake and Christianson, 2019). Many knowledge sources have identified how imperative Indigenous Fire Stewardship (IFS) is to the creation and maintenance of prairie oak ecosystems which have existed in the ecoregion for at least thousands of years. This includes:
-- Advocacy by Indigenous Peoples (e.g. Bryce, 2020)
-- Current prairie oak landscapes with a high number of geophytes and other food plants, fire-adapted plants, oak trees with open growing profiles, the inability of regional soils to stall conifer encroachment, and prevalence of cultural meadow soils (e.g. SOURCES - Barlow et al., 2021; Beckwith 2004, Dunwiddie and Alverson, 2020; Erickson, 1996; Lowther, 2022; Maurice-Hammond et al., 2023; Weiser and Lepofsky, 2009)
-- Ethnographic accounts of Indigenous cultures throughout the ecoregion (e.g. DECIDE WHICH REFERENCES ARE ETHNOGRAPHIC VS. ARCHEOLOGIC, Garibaldi and Turner, 2004; Suttles, 2005; Turner, 2014)
-- Archeologic features like camas pit cook ovens and village sites (e.g. Carney et al., 2021; Carney and Connolly, 2024; Derr, 2014; Lyons and Ritchie, 2017; McCune, 2013 (?? ethno))
-- Historical ecology inferring past ecosystem characteristics from European explorers and settlers who saw regular, low-intensity fires and large areas of open canopy vegetation communities (e.g. Beckwith, 2004; Lutz, 2020). 
-- Dendrochronology showing the quick progression of conifers infilling the landscape once IFS ceases (e.g. Bakker et al., 2019; Barlow et al., 2021; Dunwiddie et al., 2011; Gedalof et al., 2006; Smith, 2007).
+## Poster References
+Please let me know if access to any of the manuscripts is a barrier and we will find a solution!
 
-In prairie oak ecosystems, the fires associated with IFS are not homogenous over a landscape, instead the IFS fire regimes exhibit complex spatial and temporal patterns resulting from achieving a multiplicity of land management targets (Clark et al., 2021; Coughlan and Petty, 2013; Long et al., 2021; Roos et al., 2019; Turner, 2014), such as creating canopy openings to promote Camas habitat (Barlow et al., 2021; Pellatt and Gedalof, 2014). Regional IFS fire regimes are diverse, though commonalities include prevalance of low intensity fires that occur regularly (near-annually) and non-homoegenously on the landscape. 
+1. Cunningham, C. X., Williamson, G. J., & Bowman, D. M. J. S. (2024). Increasing frequency and intensity of the most extreme wildfires on Earth. Nature Ecology & Evolution, 8(8), 1420–1425. https://doi.org/10.1038/s41559-024-02452-2
 
-### Prairie Oak Ecosystems Critically Require Restoration at Scale
-The current state of prairie oak ecosystems is unfortunately are highly fragmented small patches of in-tact ecosystems that are continually under threat from land conversion, introduced invasive plants, and over-browsing by hyperabundant herivores like deer (Beckett et al., 2022; Dunwiddie and Bakker, 2011; Martin et al., 2011). These ecosystems are at an important inflection point where significant restoration at scale is required to address the looming extinction threat. Restoration faces many challenges because there are relatively few reference ecosystems, let alone ecosystems being stewarded with fire, and the patches that do remain are not representative of the  historic range, vigour, and variability that was previously established throughout the ecoregion (Altman et al., 2017; Dunwiddie and Alverson, 2020). Conservation action is urgently required to halt further prairie oak ecosystem loss and degradation. Caring for what remains and enhancing the distirbution of the ecocultural systems further necessitations restoration that centers Indigenous expertise and explicitly benefits Indigenous communities (Coughlan et al., 2023; Ellis et al., 2021; Sachs et al., 2025). 
+2. Parisien, M.-A., Barber, Q. E., Bourbonnais, M. L., Daniels, L. D., Flannigan, M. D., Gray, R. W., Hoffman, K. M., Jain, P., Stephens, S. L., Taylor, S. W., & Whitman, E. (2023). Abrupt, climate-induced increase in wildfires in British Columbia since the mid-2000s. Communications Earth & Environment, 4(1), 309. https://doi.org/10.1038/s43247-023-00977-1
 
-### Paleoecology to Support Restoration Planning
-Paleoecological research is a discpline of western science that can complement the multiple ways of knowing prairie oak ecosystems by measuring the physical components of past ecosystems that remain in the fossil record (Benton and Harper, 2009; Bottjer, 2016). No other physical science approach can provide sufficient temporal depth that matches the millennial timescales of human stewardship of prairie oak ecosystems (Manzano et al., 2020). The signatures of past ecosystem dynamics are present in fossilized charcoal, plant pollen, and ancient DNA can be used to determine historic ecosystem configuration that are resilient to landscape change (Barnosky et al., 2017), contribute to restorying ecosystem management so that it centers Indigenous land stewardship (Adlam et al., 2022; Coughlan et al., 2023), and addresses biodiversity loss through quantifying the long term fire-vegetation dynamics at relevant timescales (Bowman et al., 2011; Roos et al., 2019; Snitker et al., 2022). 
+3. Copes-Gerbitz, K., Hagerman, S. M., & Daniels, L. D. (2022). Transforming fire governance in British Columbia, Canada: An emerging vision for coexisting with fire. Regional Environmental Change, 22(2), 48. https://doi.org/10.1007/s10113-022-01895-2
 
-## Improving Paleoecological Data
-......paste poster text here...
+4. McCune, J. L., Pellatt, M. G., & Vellend, M. (2013). Multidisciplinary synthesis of long-term human–ecosystem interactions: A perspective from the Garry oak ecosystem of British Columbia. Biological Conservation, 166, 293–300. https://doi.org/10.1016/j.biocon.2013.08.004
 
-## Methodological Adaptations
-......paste poster text here...
+5. Turner, N. J. (2014). Ancient Pathways, Ancestral Knowledge: Ethnobotany and Ecological Wisdom of Indigenous Peoples of Northwestern North America (1st ed.). McGill-Queen’s University Press.
 
-## Regional Research Gaps
-......paste poster text here...
-......point to .csv of lit review spreadsheet...
+6. Pellatt, M. G., & Gedalof, Z. (2014). Environmental change in Garry oak (Quercus garryana) ecosystems: The evolution of an eco-cultural landscape. Biodiversity and Conservation, 23(8), 2053–2067. https://doi.org/10.1007/s10531-014-0703-9
 
-## Reflection
-......paste poster text here...
+7. Dunwiddie, P. W., & Alverson, E. (2020). Prairies, Savannas, and Oak Woodlands of the Pacific Northwest (pp. 489–504).
 
-## Application
-......paste poster text here...
+8. Gillson, L., Whitlock, C., & Humphrey, G. (2019). Resilience and fire management in the Anthropocene. Ecology and Society, 24(3). https://www.jstor.org/stable/26796998
 
-## References
-......reference list for in-text citations...
+9. Long, J. W., Lake, F. K., & Goode, R. W. (2021). The importance of Indigenous cultural burning in forested regions of the Pacific West, USA. Forest Ecology and Management, 500, 119597. https://doi.org/10.1016/j.foreco.2021.119597
+
+10. Manzano, S., Julier, A. C. M., Dirk, C. J., Razafimanantsoa, A. H. I., Samuels, I., Petersen, H., Gell, P., Hoffman, M. T., & Gillson, L. (2020). Using the past to manage the future: The role of palaeoecological and long-term data in ecological restoration. Restoration Ecology, 28(6), 1335–1342. https://doi.org/10.1111/rec.13285
+
+11. Leonard, K., Aldern, J., Christianson, A., Ranco, D., Thornbrugh, C., Loring, P., Coughlan, M., Jones, P., Mancini, J., May, D., Moola, F., Williamson, G., & Stoof, C. (2020). Indigenous Conservation Practices Are Not a Monolith: Western cultural biases and a lack of engagement with Indigenous experts undermine studies of land stewardship. https://doi.org/10.32942/osf.io/jmvqy
+
+12. Leys, B. A., Marlon, J. R., Umbanhowar, C., & Vannière, B. (2018). Global fire history of grassland biomes. Ecology and Evolution, 8(17), 8831–8852. https://doi.org/10.1002/ece3.4394
+
+13. Barak, R. S., Hipp, A. L., Cavender-Bares, J., Pearse, W. D., Hotchkiss, S. C., Lynch, E. A., Callaway, J. C., Calcote, R., & Larkin, D. J. (2016). Taking the long view: Integrating recorded, archeological, paleoecological, and evolutionary data into ecological restoration. International Journal of Plant Sciences, 177(1), 90–102. https://doi.org/10.1086/683394
+
+14. Copes-Gerbitz, K., Sutherland, I. J., Dickson-Hoyle, S., Baron, J. N., Gonzalez-Moctezuma, P., Crowley, M. A., Kitchens, K. A., Devisscher, T., & Burr, J. (2024). Guiding principles for transdisciplinary and transformative fire research. Fire Ecology, 20(1), 12. https://doi.org/10.1186/s42408-023-00244-w
+
+15. Conedera, M., Tinner, W., Neff, C., Meurer, M., Dickens, A. F., & Krebs, P. (2009). Reconstructing past fire regimes: Methods, applications, and relevance to fire management and conservation. Quaternary Science Reviews, 28(5), 555–576. https://doi.org/10.1016/j.quascirev.2008.11.005
+
+16. Leys, B. A., Commerford, J. L., & McLauchlan, K. K. (2017). Reconstructing grassland fire history using sedimentary charcoal: Considering count, size and shape. PLOS ONE, 12(4), e0176445. https://doi.org/10.1371/journal.pone.0176445
+
+17. Vachula, R. S., Sae-Lim, J., & Li, R. (2021). A critical appraisal of charcoal morphometry as a paleofire fuel type proxy. Quaternary Science Reviews, 262, 106979. https://doi.org/10.1016/j.quascirev.2021.106979
+
+18. Feurdean, A., Vachula, R. S., Hanganu, D., Stobbe, A., & Gumnior, M. (2023). Charcoal morphologies and morphometrics of a Eurasian grass-dominated system for robust interpretation of past fuel and fire type. Biogeosciences, 20(24), 5069–5085. https://doi.org/10.5194/bg-20-5069-2023
+
+19. Vachula, R. S., & Rehn, E. (2023). Modeled dispersal patterns for wood and grass charcoal are different: Implications for paleofire reconstruction. The Holocene, 33(2), 159–166. https://doi.org/10.1177/09596836221131708
+
+20. Gillson, L., Seddon, A., Mottl, O., Zhang, K., Kirsten, K., Gell, P., Marchant, R. A., Schwörer, C., Razanatsoa, E., Lane, P. J., Courtney-Mustaphi, C. J., & Dearing, J. (2025). Exploring the Interface Between Planetary Boundaries and Palaeoecology. Global Change Biology, 31(1), e70017. https://doi.org/10.1111/gcb.70017
+
+21. Kimmerer, R. W., & Lake, F. K. (n.d.). The Role of Indigenous Burning in Land Management. Journal of Forestry, 99(11), 36–41.
+
+22. Bowman, D. M. J. S., Balch, J., Artaxo, P., Bond, W. J., Cochrane, M. A., D’Antonio, C. M., DeFries, R., Johnston, F. H., Keeley, J. E., Krawchuk, M. A., Kull, C. A., Mack, M., Moritz, M. A., Pyne, S., Roos, C. I., Scott, A. C., Sodhi, N. S., & Swetnam, T. W. (2011). The human dimension of fire regimes on Earth. Journal of Biogeography, 38(12), 2223–2236. https://doi.org/10.1111/j.1365-2699.2011.02595.x
+
+23. Carney, M., & Connolly, T. (2024). Scales of plant stewardship in the precontact Pacific Northwest, USA. The Holocene, 09596836241247307. https://doi.org/10.1177/09596836241247307
+
+24. Lutz, J. S. (2020). Preparing Eden: Indigenous Land Use and European Settlement on Southern Vancouver Island. In N. J. Turner (Ed.), Plants, People, and Places: The Roles of Ethnobotany and Ethnoecology in Indigenous Peoples’ Land Rights in Canada and Beyond (pp. 107–130). McGill-Queen’s University Press. https://doi.org/10.1515/9780228003175-012
+
+25. Barlow, C. M., Pellatt, M. G., & Kohfeld, K. E. (2021). Garry oak ecosystem stand history in Southwest British Columbia, Canada: Implications of environmental change and Indigenous land use for ecological restoration and population recovery. Biodiversity and Conservation, 30(6), 1655–1672. https://doi.org/10.1007/s10531-021-02162-2
+
+26. Roos, C. I., Williamson, G. J., & Bowman, D. M. J. S. (2019). Is anthropogenic pyrodiversity invisible in paleofire records? Fire, 2(3), Article 3. https://doi.org/10.3390/fire2030042
+
+## Poster Image Credits
+1. Wildfire
+2. Prairie fire
+3. Camas ecosystem
+4. Ecoregion map
+5. Literature review comparison
+6. Prescribed burn
 
 ## Spatial Data
 . shapefiles
