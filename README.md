@@ -1,5 +1,5 @@
 # CAGPoster_PrairieOakPaleo
-Supporting documentation for the poster "Grounding research in place: Paleoecology guided by Indigenous Fire Stewardship and ecosystem diversity" presented by Larissa Bron at the annual CAG/CARTO conference in June 2026.
+Supporting documentation for the poster "Grounding research in place: Considering paleoecological research for Indigenous fire stewardship and ecocultural landscapes" presented by Larissa Bron at the annual CAG/CARTO conference in June 2026.
 
 ## Contact information
 Email: larissabron@uvic.ca
