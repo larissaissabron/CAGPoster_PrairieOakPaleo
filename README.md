@@ -2,7 +2,7 @@ Supporting documentation for the poster "Grounding research in place: Considerin
 
 ## Contact information
 Larissa Bron, MSc Student
-- [UVic Email](larissabron@uvic.ca)
+- UVic Email: larissabron@uvic.ca
 - [LinkedIn](https://www.linkedin.com/in/larissabron/)
 - [Paleofire Lab (Natural Resources Canada)](https://scholar.google.com/)
 - [SURREAL Lab (University of Victoria)](https://surreal.uvic.ca/)
