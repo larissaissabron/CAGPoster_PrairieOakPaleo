@@ -1,4 +1,4 @@
-*Have you spent too much time indoors during CAG/CARTO 2026? Consider visiting the incredible biodiversity in our prairie oak ecosystems, as mapped in the [Meadow Hoppers Guide](https://www.google.com/maps/d/u/0/edit?mid=1p4BJKcmO6FD8rZg5NvQO0FMo2wQUnrU&usp=sharing)*
+*Have you spent too much time indoors during CAG/CARTO 2026? Consider visiting the incredible biodiversity in our prairie oak ecosystems, as mapped in the [Meadow Hoppers Guide](https://www.google.com/maps/d/u/0/edit?mid=1p4BJKcmO6FD8rZg5NvQO0FMo2wQUnrU&usp=sharing). Mt. Tolmie is particularly walkable.* 
 
 ----
 
