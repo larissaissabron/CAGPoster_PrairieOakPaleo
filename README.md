@@ -6,8 +6,8 @@ Supporting documentation for the poster "Grounding research in place: Considerin
 - LinkedIn: https://www.linkedin.com/in/larissabron/
 - iNaturalist: https://www.inaturalist.ca/people/larissaissabron
 
-## Poster PDF
-.....put the link in here....
+## Poster
+A PDF version of the poster is available for view and download: [poster.pdf](https://github.com/larissaissabron/CAGPoster_PrairieOakPaleo/blob/main/Poster.pdf).
 
 ## Literature Review
 ...link to comparitive spreadsheet...
