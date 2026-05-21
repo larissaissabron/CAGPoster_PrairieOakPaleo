@@ -8,23 +8,42 @@ Larissa Bron, MSc Student
 
 
 ## Poster
-A PDF version of the poster is available for view and download: [poster.pdf](https://github.com/larissaissabron/CAGPoster_PrairieOakPaleo/blob/main/Poster.pdf).
+A PDF version of the poster is available for view and download: [Poster.pdf](https://github.com/larissaissabron/CAGPoster_PrairieOakPaleo/blob/main/Poster.pdf).
 
 ## Literature Review
-...link to comparitive spreadsheet...
+A wide-ranging literature search was conducted to find paleoecological research in the Pacific Northwest. This list was then honed to research relevant to comparing charcoal methodology within the ecoregion. The Excel spreadsheet is available for download: [Literature_review.xlsx](https://github.com/larissaissabron/CAGPoster_PrairieOakPaleo/blob/main/Literature_review.xlsx).
 
 Sites:
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
+1	Langley Lake [(Brown et al.	2022)](https://doi.org/10.1139/cjfr-2022-0020)
+2	Turtle Lake	49.327	-124.960917	Brown et al. 	2022	https://doi.org/10.1139/cjfr-2022-0020
+3	Enos Lake	49.280472	-124.156361	Brown et al.	2022	https://doi.org/10.1139/cjfr-2022-0020
+4	Boomerang Lake	49.179611	-124.155611	Brown et al.	2022	https://doi.org/10.1139/cjfr-2022-0020
+5	Chadsey Lake	49.124139	-122.144278	Murphy et al.	2019	https://doi.org/10.3389/fevo.2019.00090
+6	Valdes Island (Off-site)	49.085	-123.676028	Derr	2014	https://www.jstor.org/stable/43967084
+7	Valdes Island (On-site)	49.041694	-123.643306	Derr	2014	https://www.jstor.org/stable/43967084
+8	Somenos Lake	48.802056	-123.704222	Murphy et al.	2019	https://doi.org/10.3389/fevo.2019.00090
+9	Quamichan Lake	48.801083	-123.661361	Pellatt et al.	2015	https://doi.org/10.1007/s10531-015-0880-1
+10	Roe Lake	48.782639	-123.303139	Giuliano and Lacourse	2023	https://doi.org/10.1002/ecs2.4416
+11	Roe Lake	48.782639	-123.303139	Pellatt et al.	2015	https://doi.org/10.1007/s10531-015-0880-1
+12	Roe Lake	48.782639	-123.303139	Lucas and Lacourse	2013	https://doi.org/10.1016/j.yqres.2013.03.001
+13	Mt. Constitution (C32, C38, C11)	48.65	-122.833333	Sugimura et al.	2007	https://doi.org/10.1139/X07-186 
+14	Worley Lake	48.59	-123.81	Horrelt et al.	2025	https://doi.org/10.5194/egusphere-2025-3464
+15	Begbie lake	48.585167	-123.683667	Brown et al.	2019	https://doi.org/10.1177/0959683619854523
+16	Begbie Lake	48.58	-123.68	Horrelt et al.	2025	https://doi.org/10.5194/egusphere-2025-3464
+17	Swanson Lake	48.569028	-123.743083	Horrelt et al.	2025	https://doi.org/10.5194/egusphere-2025-3465
+18	Frog Lake	48.482056	-123.595556	Horrelt et al.	2025	https://doi.org/10.5194/egusphere-2025-3463
+19	Florence Lake	48.458889	-123.512778	Pellatt et al.	2015	https://doi.org/10.1007/s10531-015-0880-1
+20	Marckworth State Forest MW13+14	47.771	-121.827	Crausbay et al.	2017	https://doi.org/10.1002/ecy.1897
+21	Marckworth State Forest MW1B	47.769	-121.8111	Crausbay et al.	2017	https://doi.org/10.1002/ecy.1897
+22	Battle Ground Lake	45.805111	-122.494361	Walsh et al.	2010	https://doi.org/10.1016/j.palaeo.2010.08.007
+23	Battle Ground Lake	45.805111	-122.494361	Walsh et al.	2008	https://doi.org/10.1016/j.yqres.2008.05.002 
+24	Lake Oswego	45.409667	-122.696056	Walsh et al.	2010	https://doi.org/10.1016/j.palaeo.2010.08.007
+25	Lake Oswego	45.409667	-122.696056	Walsh et al.	2018	https://doi.org/10.1177/0309133318783144 
+26	Beaver Lake	44.550694	-123.175111	Walsh et al.	2010	https://doi.org/10.1016/j.palaeo.2010.08.007
+27	Beaver Lake	44.550694	-123.175111	Walsh et al.	2010	https://doi.org/10.1016/j.quascirev.2010.02.011
+28	Porter Lake	44.447806	-123.244806	Walsh et al.	2010	https://doi.org/10.1016/j.palaeo.2010.08.007
+29	Warner Lake	44.246778	-122.9585	Walsh et al.	2010	https://doi.org/10.1016/j.palaeo.2010.08.007<img width="714" height="7690" alt="image" src="https://github.com/user-attachments/assets/233757af-4523-4dcd-b5e9-ddab48573ea1" />
+
 ........
 
 ## Poster References
