@@ -105,7 +105,7 @@ Paleofire/fire history reconstruction sites in the ecoregion:
 ## Poster Image Credits
 1. [Wildfire](https://www.cnn.com/2021/07/14/weather/oregon-washington-wildfires)
 2. [Prairie fire](https://pacificbirds.org/2024/09/revitalizing-oak-landscapes/)
-3. [Camas ecosystem](https://ancientforestalliance.org/camas-lily/)
+3. [Camas ecosystem](https://ancientforestalliance.org/wp-content/uploads/2024/05/camas-meadow-uplands-park-bc-1500x630.jpg)
 4. Ecoregion map (created by Larissa Bron using the [spatial data](https://github.com/larissaissabron/CAGPoster_PrairieOakPaleo#spatial-data))
 5. Literature review comparison (created by Larissa Bron in Affinity Photo based on the [literature review](https://github.com/larissaissabron/CAGPoster_PrairieOakPaleo#literature-review))
 6. [Prescribed burn](https://www.waprescribedfire.org/)
