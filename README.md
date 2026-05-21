@@ -54,7 +54,7 @@ Paleofire/fire history reconstruction sites in the ecoregion:
 
 4. McCune, J. L., Pellatt, M. G., & Vellend, M. (2013). Multidisciplinary synthesis of long-term human–ecosystem interactions: A perspective from the Garry oak ecosystem of British Columbia. Biological Conservation, 166, 293–300. https://doi.org/10.1016/j.biocon.2013.08.004
 
-5. Turner, N. J. (2014). Ancient Pathways, Ancestral Knowledge: Ethnobotany and Ecological Wisdom of Indigenous Peoples of Northwestern North America (1st ed.). McGill-Queen’s University Press. https://www.mqup.ca/Books/A/Ancient-Pathways-Ancestral-Knowledge2
+5. Turner, N. J. (2014). Ancient Pathways, Ancestral Knowledge: Ethnobotany and Ecological Wisdom of Indigenous Peoples of Northwestern North America (1st ed.). McGill-Queen’s University Press. https://www.jstor.org/stable/j.ctt7zt2k0
 
 6. Pellatt, M. G., & Gedalof, Z. (2014). Environmental change in Garry oak (Quercus garryana) ecosystems: The evolution of an eco-cultural landscape. Biodiversity and Conservation, 23(8), 2053–2067. https://doi.org/10.1007/s10531-014-0703-9
 
