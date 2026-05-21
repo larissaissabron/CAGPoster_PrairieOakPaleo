@@ -66,7 +66,7 @@ Paleofire/fire history reconstruction sites in the ecoregion:
 
 10. Manzano, S., Julier, A. C. M., Dirk, C. J., Razafimanantsoa, A. H. I., Samuels, I., Petersen, H., Gell, P., Hoffman, M. T., & Gillson, L. (2020). Using the past to manage the future: The role of palaeoecological and long-term data in ecological restoration. Restoration Ecology, 28(6), 1335–1342. https://doi.org/10.1111/rec.13285
 
-11. Leonard, K., Aldern, J., Christianson, A., Ranco, D., Thornbrugh, C., Loring, P., Coughlan, M., Jones, P., Mancini, J., May, D., Moola, F., Williamson, G., & Stoof, C. (2020). Indigenous Conservation Practices Are Not a Monolith: Western cultural biases and a lack of engagement with Indigenous experts undermine studies of land stewardship. https://doi.org/10.32942/osf.io/jmvqy
+11. Leonard, K., Aldern, J., Christianson, A., Ranco, D., Thornbrugh, C., Loring, P., Coughlan, M., Jones, P., Mancini, J., May, D., Moola, F., Williamson, G., & Stoof, C. (2020). Indigenous Conservation Practices Are Not a Monolith: Western cultural biases and a lack of engagement with Indigenous experts undermine studies of land stewardship. https://ecoevorxiv.org/repository/view/4311/
 
 12. Leys, B. A., Marlon, J. R., Umbanhowar, C., & Vannière, B. (2018). Global fire history of grassland biomes. Ecology and Evolution, 8(17), 8831–8852. https://doi.org/10.1002/ece3.4394
 
