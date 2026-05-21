@@ -120,7 +120,7 @@ Paleofire/fire history reconstruction sites in the ecoregion:
 - [Indigenous Territories](https://api-docs.native-land.ca/) accessed by connecting to the Native Land Digital API.
 
 ## Acknowledgements
-I am grateful to conduct research within the territories of many Coast Salish nations, including the lands of the following nations: [W̱SÁNEĆ, Xʷsepsəm, Songhees, T’Sou-ke, and SC’IȺNEW̱](https://www.whose.land/en/), and I respect the importance of Indigenous fire stewardship to functioning ecosystems on these lands. 
+I am grateful to conduct research within the territories of many Coast Salish nations, including the lands of the following nations: [W̱SÁNEĆ, Xʷsepsəm, Songhees, T’Sou-ke, and SC’IȺNEW̱](https://www.whose.land/en/), with deep respect for the importance of Indigenous fire stewardship to functioning ecosystems on these lands. 
 
 Thank you to every group that has funded my research so far, including the Castilleja Conservation Society, Natural Resources Canada (Research Affiliate Program Bursary), University of Victoria (Graduate Student Fellowship), and graduate scholarships from Derrick Sewell, John and Myrtle Tilley, and Jarmila Vlasta Von Drak Thouvenelle.
 
