@@ -1,3 +1,7 @@
+*Have you spent too much time indoors during CAG/CARTO 2026? Consider visiting the incredible biodiversity in our prairie oak ecosystems, as mapped in the [Meadow Hoppers Guide](https://www.google.com/maps/d/u/0/edit?mid=1p4BJKcmO6FD8rZg5NvQO0FMo2wQUnrU&usp=sharing)*
+
+----
+
 Supporting documentation for the poster "Grounding research in place: Considering paleoecological research for Indigenous fire stewardship and ecocultural landscapes" presented by Larissa Bron at the annual CAG/CARTO conference in June 2026. 
 
 Please let me know if access to any of the manuscripts is a barrier and we will find a solution!
@@ -111,21 +115,23 @@ Paleofire/fire history reconstruction sites in the ecoregion:
 6. [Prescribed burn](https://www.waprescribedfire.org/)
 
 ## Spatial Data
-. shapefiles
-. database connections (native land)
-. map information
-. map pdf
+- [Paleofire/fire history reconstruction research sites in the ecoregion](https://github.com/larissaissabron/CAGPoster_PrairieOakPaleo/blob/main/wpg_paleo_fire.gpkg) created with author data from the [literature review](https://github.com/larissaissabron/CAGPoster_PrairieOakPaleo#literature-review).
+- [WPG ecoregion](https://github.com/larissaissabron/CAGPoster_PrairieOakPaleo/blob/main/wpg_ecoregion.gpkg) was inspired by [Dunwiddie and Alverson (2020)](https://www.researchgate.net/publication/342864154_Prairies_Savannas_and_Oak_Woodlands_of_the_Pacific_Northwest/figures?lo=1) but needed to be manually created by merging [US Level III Ecoregions](https://www.epa.gov/eco-research/level-iii-and-iv-ecoregions-continental-united-states) with [Ecoregion Classifications of British Columbia](https://catalogue.data.gov.bc.ca/dataset/d00389e0-66da-4895-bd56-39a0dd64aa78).
+- [Indigenous Territories](https://api-docs.native-land.ca/) accessed by connecting to the Native Land Digital API.
 
 ## Acknowledgements
-. Funding
-. Supervisors
-. Community (people and place)
+I am grateful to conduct research within the territories of many Coast Salish nations, including the lands of the following nations: [W̱SÁNEĆ, Xʷsepsəm, Songhees, T’Sou-ke, and SC’IȺNEW̱](https://www.whose.land/en/), and I respect the importance of Indigenous fire stewardship to functioning ecosystems on these lands. 
+
+Thank you to every group that has funded my research so far, including the Castilleja Conservation Society, Natural Resources Canada (Research Affiliate Program Bursary), University of Victoria (Graduate Student Fellowship), and graduate scholarships from Derrick Sewell, John and Myrtle Tilley, and Jarmila Vlasta Von Drak Thouvenelle.
+
+Sending appreciation to my supervisors Dr. Kendrick Brown and Dr. Chris Bone for the great guidance and partnership, alongside appreciation for all the informal conversations with the great people caring for the ecosystems and human relatonships in our ecoregion. 
 
 ## Learn more about Prairie-Oak Ecosystems!
-. SFN
-. CPOP
-. CCS
-. GOERT
-. Swan Lake
+- [Cascadia Prairie Oak Partnership](https://cascadiaprairieoak.org/): the official coordinating group for prairie oak ecosystems in the WPG ecoregion
+- [Garry Oak Ecosystem Recovery Team](https://goert.ca/): coordinating group for prairie oak ecosystems in British Columbia
+- [Habitat Acquisition Trust](https://hat.bc.ca/): lots of good resources and opportunities for ecosystems on southeastern Vancouver Island
+- [Swan Lake Christmas Hill Nature Sanctuary](https://www.swanlake.bc.ca/): current fire history reconstruction site I am working on
+- [Satinflower Nurseries](https://satinflower.ca/): visit and grow the native plants of southeastern Vancouver Island
+
 
 
