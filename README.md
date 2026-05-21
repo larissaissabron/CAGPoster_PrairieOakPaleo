@@ -2,9 +2,9 @@
 Supporting documentation for the poster "Grounding research in place: Considering paleoecological research for Indigenous fire stewardship and ecocultural landscapes" presented by Larissa Bron at the annual CAG/CARTO conference in June 2026.
 
 ## Contact information
-Email: larissabron@uvic.ca
-LinkedIn: https://www.linkedin.com/in/larissabron/
-iNaturalist: https://www.inaturalist.ca/people/larissaissabron
+- Email: larissabron@uvic.ca
+- LinkedIn: https://www.linkedin.com/in/larissabron/
+- iNaturalist: https://www.inaturalist.ca/people/larissaissabron
 
 ## Poster PDF
 .....put the link in here....
