@@ -13,12 +13,12 @@ A PDF version of the poster is available for view and download: [Poster.pdf](htt
 ## Literature Review
 A wide-ranging literature search was conducted to find paleoecological research in the Pacific Northwest. This list was then honed to research relevant to comparing charcoal methodology within the ecoregion. The Excel spreadsheet is available for download: [Literature_review.xlsx](https://github.com/larissaissabron/CAGPoster_PrairieOakPaleo/blob/main/Literature_review.xlsx).
 
-Sites:
-1	Langley Lake [(Brown et al.	2022)](https://doi.org/10.1139/cjfr-2022-0020)
-2	Turtle Lake	49.327	-124.960917	Brown et al. 	2022	https://doi.org/10.1139/cjfr-2022-0020
-3	Enos Lake	49.280472	-124.156361	Brown et al.	2022	https://doi.org/10.1139/cjfr-2022-0020
-4	Boomerang Lake	49.179611	-124.155611	Brown et al.	2022	https://doi.org/10.1139/cjfr-2022-0020
-5	Chadsey Lake	49.124139	-122.144278	Murphy et al.	2019	https://doi.org/10.3389/fevo.2019.00090
+Sites listed on the poster (charcoal_methods sheet in [Literature_review.xlsx](https://github.com/larissaissabron/CAGPoster_PrairieOakPaleo/blob/main/Literature_review.xlsx)):
+1. Langley Lake [(Brown et al. 2022)](https://doi.org/10.1139/cjfr-2022-0020)
+2. Turtle Lake [(Brown et al. 2022)](https://doi.org/10.1139/cjfr-2022-0020)
+3. Enos Lake [(Brown et al.	2022)](https://doi.org/10.1139/cjfr-2022-0020)
+4. Boomerang Lake [(Brown et al. 2022)](https://doi.org/10.1139/cjfr-2022-0020)
+5. Chadsey Lake	[(Murphy et al. 2019)](https://doi.org/10.3389/fevo.2019.00090)
 6	Valdes Island (Off-site)	49.085	-123.676028	Derr	2014	https://www.jstor.org/stable/43967084
 7	Valdes Island (On-site)	49.041694	-123.643306	Derr	2014	https://www.jstor.org/stable/43967084
 8	Somenos Lake	48.802056	-123.704222	Murphy et al.	2019	https://doi.org/10.3389/fevo.2019.00090
