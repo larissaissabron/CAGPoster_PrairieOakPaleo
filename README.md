@@ -1,6 +1,7 @@
 Supporting documentation for the poster "Grounding research in place: Considering paleoecological research for Indigenous fire stewardship and ecocultural landscapes" presented by Larissa Bron at the annual CAG/CARTO conference in June 2026.
 
 ## Contact information
+Larissa Bron, MSc Student, [SURREAL Lab (University of Victoria)](https://surreal.uvic.ca/), [Paleofire Lab (Natural Resources Canada)](https://scholar.google.com/citations?user=1gbC7msAAAAJ&hl=en).
 - Email: larissabron@uvic.ca
 - LinkedIn: https://www.linkedin.com/in/larissabron/
 - iNaturalist: https://www.inaturalist.ca/people/larissaissabron
