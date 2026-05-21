@@ -1,4 +1,4 @@
-Supporting documentation for the poster "Grounding research in place: Considering paleoecological research for Indigenous fire stewardship and ecocultural landscapes" presented by Larissa Bron at the annual CAG/CARTO conference in June 2026.
+Supporting documentation for the poster "Grounding research in place: Considering paleoecological research for Indigenous fire stewardship and ecocultural landscapes" presented by Larissa Bron at the annual CAG/CARTO conference in June 2026. Please let me know if access to any of the manuscripts is a barrier and we will find a solution!
 
 ## Contact information
 Larissa Bron, MSc Student
@@ -25,29 +25,28 @@ Sites listed on the poster (charcoal_methods sheet in [Literature_review.xlsx](h
 9. Quamichan Lake	[(Pellatt et al., 2015)](https://doi.org/10.1007/s10531-015-0880-1)
 10. Roe Lake [(Giuliano and Lacourse, 2023)](https://doi.org/10.1002/ecs2.4416)
 11. Roe Lake [(Pellatt et al., 2015)](https://doi.org/10.1007/s10531-015-0880-1)
-12	Roe Lake	48.782639	-123.303139	Lucas and Lacourse	2013	https://doi.org/10.1016/j.yqres.2013.03.001
-13	Mt. Constitution (C32, C38, C11)	48.65	-122.833333	Sugimura et al.	2007	https://doi.org/10.1139/X07-186 
-14	Worley Lake	48.59	-123.81	Horrelt et al.	2025	https://doi.org/10.5194/egusphere-2025-3464
-15	Begbie lake	48.585167	-123.683667	Brown et al.	2019	https://doi.org/10.1177/0959683619854523
-16	Begbie Lake	48.58	-123.68	Horrelt et al.	2025	https://doi.org/10.5194/egusphere-2025-3464
-17	Swanson Lake	48.569028	-123.743083	Horrelt et al.	2025	https://doi.org/10.5194/egusphere-2025-3465
-18	Frog Lake	48.482056	-123.595556	Horrelt et al.	2025	https://doi.org/10.5194/egusphere-2025-3463
-19	Florence Lake	48.458889	-123.512778	Pellatt et al.	2015	https://doi.org/10.1007/s10531-015-0880-1
-20	Marckworth State Forest MW13+14	47.771	-121.827	Crausbay et al.	2017	https://doi.org/10.1002/ecy.1897
-21	Marckworth State Forest MW1B	47.769	-121.8111	Crausbay et al.	2017	https://doi.org/10.1002/ecy.1897
-22	Battle Ground Lake	45.805111	-122.494361	Walsh et al.	2010	https://doi.org/10.1016/j.palaeo.2010.08.007
-23	Battle Ground Lake	45.805111	-122.494361	Walsh et al.	2008	https://doi.org/10.1016/j.yqres.2008.05.002 
-24	Lake Oswego	45.409667	-122.696056	Walsh et al.	2010	https://doi.org/10.1016/j.palaeo.2010.08.007
-25	Lake Oswego	45.409667	-122.696056	Walsh et al.	2018	https://doi.org/10.1177/0309133318783144 
-26	Beaver Lake	44.550694	-123.175111	Walsh et al.	2010	https://doi.org/10.1016/j.palaeo.2010.08.007
-27	Beaver Lake	44.550694	-123.175111	Walsh et al.	2010	https://doi.org/10.1016/j.quascirev.2010.02.011
-28	Porter Lake	44.447806	-123.244806	Walsh et al.	2010	https://doi.org/10.1016/j.palaeo.2010.08.007
-29	Warner Lake	44.246778	-122.9585	Walsh et al.	2010	https://doi.org/10.1016/j.palaeo.2010.08.007<img width="714" height="7690" alt="image" src="https://github.com/user-attachments/assets/233757af-4523-4dcd-b5e9-ddab48573ea1" />
+12. Roe Lake [(Lucas and Lacourse, 2013)](https://doi.org/10.1016/j.yqres.2013.03.001)
+13. Mt. Constitution (C32, C38, C11) [(Sugimura et al., 2007)](https://doi.org/10.1139/X07-186)
+14. Worley Lake	[(Horrelt et al., 2025)](https://doi.org/10.5194/egusphere-2025-3464)
+15. Begbie Lake	[(Brown et al., 2019)](https://doi.org/10.1177/0959683619854523)
+16. Begbie Lake	[(Horrelt et al., 2025)](https://doi.org/10.5194/egusphere-2025-3464)
+17. Swanson Lake [(Horrelt et al., 2025)](https://doi.org/10.5194/egusphere-2025-3465)
+18. Frog Lake	[(Horrelt et al., 2025)](https://doi.org/10.5194/egusphere-2025-3463)
+19. Florence Lake [(Pellatt et al., 2015)](https://doi.org/10.1007/s10531-015-0880-1)
+20. Marckworth State Forest MW13+14	[(Crausbay et al., 2017)](https://doi.org/10.1002/ecy.1897)
+21. Marckworth State Forest MW1B [(Crausbay et al., 2017)](https://doi.org/10.1002/ecy.1897)
+22. Battle Ground Lake	[(Walsh et al., 2010)](https://doi.org/10.1016/j.palaeo.2010.08.007)
+23. Battle Ground Lake	[(Walsh et al., 2008)](https://doi.org/10.1016/j.yqres.2008.05.002)
+24. Lake Oswego	[(Walsh et al., 2010)](https://doi.org/10.1016/j.palaeo.2010.08.007)
+25. Lake Oswego	[(Walsh et al., 2018)](https://doi.org/10.1177/0309133318783144)
+26. Beaver Lake	[(Walsh et al., 2010)](https://doi.org/10.1016/j.palaeo.2010.08.007)
+27. Beaver Lake	[(Walsh et al., 2010)](https://doi.org/10.1016/j.quascirev.2010.02.011)
+28. Porter Lake	[(Walsh et al., 2010)](https://doi.org/10.1016/j.palaeo.2010.08.007)
+29. Warner Lake	[(Walsh et al., 2010)](https://doi.org/10.1016/j.palaeo.2010.08.007)
 
 ........
 
 ## Poster References
-Please let me know if access to any of the manuscripts is a barrier and we will find a solution!
 
 1. Cunningham, C. X., Williamson, G. J., & Bowman, D. M. J. S. (2024). Increasing frequency and intensity of the most extreme wildfires on Earth. Nature Ecology & Evolution, 8(8), 1420–1425. https://doi.org/10.1038/s41559-024-02452-2
 
