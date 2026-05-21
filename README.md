@@ -1,4 +1,6 @@
-Supporting documentation for the poster "Grounding research in place: Considering paleoecological research for Indigenous fire stewardship and ecocultural landscapes" presented by Larissa Bron at the annual CAG/CARTO conference in June 2026. Please let me know if access to any of the manuscripts is a barrier and we will find a solution!
+Supporting documentation for the poster "Grounding research in place: Considering paleoecological research for Indigenous fire stewardship and ecocultural landscapes" presented by Larissa Bron at the annual CAG/CARTO conference in June 2026. 
+
+Please let me know if access to any of the manuscripts is a barrier and we will find a solution!
 
 ## Contact information
 Larissa Bron, MSc Student
