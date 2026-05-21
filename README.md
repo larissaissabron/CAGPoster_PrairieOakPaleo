@@ -101,12 +101,12 @@ Paleofire/fire history reconstruction sites in the ecoregion:
 27. Roos, C. I., Williamson, G. J., & Bowman, D. M. J. S. (2019). Is anthropogenic pyrodiversity invisible in paleofire records? Fire, 2(3), Article 3. https://doi.org/10.3390/fire2030042
 
 ## Poster Image Credits
-1. Wildfire
-2. Prairie fire
-3. Camas ecosystem
-4. Ecoregion map
-5. Literature review comparison
-6. Prescribed burn
+1. [Wildfire](https://www.cnn.com/2021/07/14/weather/oregon-washington-wildfires)
+2. [Prairie fire](https://pacificbirds.org/2024/09/revitalizing-oak-landscapes/)
+3. [Camas ecosystem](https://ancientforestalliance.org/camas-lily/)
+4. Ecoregion map (created by Larissa Bron using the [spatial data](https://github.com/larissaissabron/CAGPoster_PrairieOakPaleo#spatial-data))
+5. Literature review comparison (created by Larissa Bron in Affinity Photo based on the [literature review](https://github.com/larissaissabron/CAGPoster_PrairieOakPaleo#literature-review))
+6. [Prescribed burn](https://www.waprescribedfire.org/)
 
 ## Spatial Data
 . shapefiles
