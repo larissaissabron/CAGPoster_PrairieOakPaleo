@@ -124,7 +124,7 @@ I am grateful to conduct research within the territories of many Coast Salish na
 
 Thank you to every group that has funded my research so far, including the Castilleja Conservation Society, Natural Resources Canada (Research Affiliate Program Bursary), University of Victoria (Graduate Student Fellowship), and graduate scholarships from Derrick Sewell, John and Myrtle Tilley, and Jarmila Vlasta Von Drak Thouvenelle.
 
-Sending appreciation to my supervisors Dr. Kendrick Brown and Dr. Chris Bone for the great guidance and partnership, alongside appreciation for all the informal conversations with the great people caring for the ecosystems and human relatonships in our ecoregion. 
+Sending appreciation to my supervisors Dr. Kendrick Brown and Dr. Chris Bone for the great guidance and partnership, alongside appreciation for all the informal conversations with the great people caring for the ecosystems and rebuilding human relationships to the living world within our ecoregion. 
 
 ## Learn more about Prairie-Oak Ecosystems!
 - [Cascadia Prairie Oak Partnership](https://cascadiaprairieoak.org/): the official coordinating group for prairie oak ecosystems in the WPG ecoregion
