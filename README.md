@@ -14,17 +14,17 @@ A PDF version of the poster is available for view and download: [Poster.pdf](htt
 A wide-ranging literature search was conducted to find paleoecological research in the Pacific Northwest. This list was then honed to research relevant to comparing charcoal methodology within the ecoregion. The Excel spreadsheet is available for download: [Literature_review.xlsx](https://github.com/larissaissabron/CAGPoster_PrairieOakPaleo/blob/main/Literature_review.xlsx).
 
 Sites listed on the poster (charcoal_methods sheet in [Literature_review.xlsx](https://github.com/larissaissabron/CAGPoster_PrairieOakPaleo/blob/main/Literature_review.xlsx)):
-1. Langley Lake [(Brown et al. 2022)](https://doi.org/10.1139/cjfr-2022-0020)
-2. Turtle Lake [(Brown et al. 2022)](https://doi.org/10.1139/cjfr-2022-0020)
-3. Enos Lake [(Brown et al.	2022)](https://doi.org/10.1139/cjfr-2022-0020)
-4. Boomerang Lake [(Brown et al. 2022)](https://doi.org/10.1139/cjfr-2022-0020)
-5. Chadsey Lake	[(Murphy et al. 2019)](https://doi.org/10.3389/fevo.2019.00090)
-6	Valdes Island (Off-site)	49.085	-123.676028	Derr	2014	https://www.jstor.org/stable/43967084
-7	Valdes Island (On-site)	49.041694	-123.643306	Derr	2014	https://www.jstor.org/stable/43967084
-8	Somenos Lake	48.802056	-123.704222	Murphy et al.	2019	https://doi.org/10.3389/fevo.2019.00090
-9	Quamichan Lake	48.801083	-123.661361	Pellatt et al.	2015	https://doi.org/10.1007/s10531-015-0880-1
-10	Roe Lake	48.782639	-123.303139	Giuliano and Lacourse	2023	https://doi.org/10.1002/ecs2.4416
-11	Roe Lake	48.782639	-123.303139	Pellatt et al.	2015	https://doi.org/10.1007/s10531-015-0880-1
+1. Langley Lake [(Brown et al., 2022)](https://doi.org/10.1139/cjfr-2022-0020)
+2. Turtle Lake [(Brown et al., 2022)](https://doi.org/10.1139/cjfr-2022-0020)
+3. Enos Lake [(Brown et al., 2022)](https://doi.org/10.1139/cjfr-2022-0020)
+4. Boomerang Lake [(Brown et al., 2022)](https://doi.org/10.1139/cjfr-2022-0020)
+5. Chadsey Lake	[(Murphy et al., 2019)](https://doi.org/10.3389/fevo.2019.00090)
+6. Valdes Island (Off-site) [(Derr, 2014)](https://www.jstor.org/stable/43967084)
+7. Valdes Island (On-site) [(Derr, 2014)](https://www.jstor.org/stable/43967084)
+8. Somenos Lake	[(Murphy et al., 2019)](https://doi.org/10.3389/fevo.2019.00090)
+9. Quamichan Lake	[(Pellatt et al., 2015)](https://doi.org/10.1007/s10531-015-0880-1)
+10. Roe Lake [(Giuliano and Lacourse, 2023)](https://doi.org/10.1002/ecs2.4416)
+11. Roe Lake [(Pellatt et al., 2015)](https://doi.org/10.1007/s10531-015-0880-1)
 12	Roe Lake	48.782639	-123.303139	Lucas and Lacourse	2013	https://doi.org/10.1016/j.yqres.2013.03.001
 13	Mt. Constitution (C32, C38, C11)	48.65	-122.833333	Sugimura et al.	2007	https://doi.org/10.1139/X07-186 
 14	Worley Lake	48.59	-123.81	Horrelt et al.	2025	https://doi.org/10.5194/egusphere-2025-3464
