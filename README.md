@@ -27,7 +27,7 @@ Sites listed on the poster (charcoal_methods sheet in [Literature_review.xlsx](h
 11. Roe Lake [(Pellatt et al., 2015)](https://doi.org/10.1007/s10531-015-0880-1)
 12. Roe Lake [(Lucas and Lacourse, 2013)](https://doi.org/10.1016/j.yqres.2013.03.001)
 13. Mt. Constitution (C32, C38, C11) [(Sugimura et al., 2007)](https://doi.org/10.1139/X07-186)
-14. Worley Lake	[(Horrelt et al., 2025)](https://doi.org/10.5194/egusphere-2025-3464)
+14. Worley Lake	[(Horrelt et al., 2025)](https://doi.org/10.5194/egusphere-2025-3463)
 15. Begbie Lake	[(Brown et al., 2019)](https://doi.org/10.1177/0959683619854523)
 16. Begbie Lake	[(Horrelt et al., 2025)](https://doi.org/10.5194/egusphere-2025-3463)
 17. Swanson Lake [(Horrelt et al., 2025)](https://doi.org/10.5194/egusphere-2025-3463)
