@@ -119,7 +119,8 @@ Paleofire/fire history reconstruction sites in the ecoregion:
 - [WPG ecoregion](https://github.com/larissaissabron/CAGPoster_PrairieOakPaleo/blob/main/wpg_ecoregion.gpkg) was inspired by [Dunwiddie and Alverson (2020)](https://www.researchgate.net/publication/342864154_Prairies_Savannas_and_Oak_Woodlands_of_the_Pacific_Northwest/figures?lo=1) but needed to be manually created by merging [US Level III Ecoregions](https://www.epa.gov/eco-research/level-iii-and-iv-ecoregions-continental-united-states) with [Ecoregion Classifications of British Columbia](https://catalogue.data.gov.bc.ca/dataset/d00389e0-66da-4895-bd56-39a0dd64aa78).
 - [Indigenous Territories](https://api-docs.native-land.ca/) accessed by connecting to the Native Land Digital API.
 
-## Management recommendations
+## Management Recommendations
+There is a low representation of Indigenous Fire Stewardship in management recommendations that I believe is occurring due to methodology choices that aren't including diverse ecosystems and fire regimes characteristic of the ecoregion.
 - Include species that resist fire [(Giuliano and Lacourse, 2023)](https://doi.org/10.1002/ecs2.4416), [(Brown et al., 2019)](https://doi.org/10.1177/0959683619854523)
 - Large fire will completely change forest and post fire is blank slate canvas [(Crausbay et al., 2017)](https://doi.org/10.1002/ecy.1897)
 - Fire is important to ecosystems [(Pellatt et al., 2015)](https://doi.org/10.1007/s10531-015-0880-1), [(Horrelt et al., 2025)](https://doi.org/10.5194/egusphere-2025-3463)
