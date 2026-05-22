@@ -119,6 +119,16 @@ Paleofire/fire history reconstruction sites in the ecoregion:
 - [WPG ecoregion](https://github.com/larissaissabron/CAGPoster_PrairieOakPaleo/blob/main/wpg_ecoregion.gpkg) was inspired by [Dunwiddie and Alverson (2020)](https://www.researchgate.net/publication/342864154_Prairies_Savannas_and_Oak_Woodlands_of_the_Pacific_Northwest/figures?lo=1) but needed to be manually created by merging [US Level III Ecoregions](https://www.epa.gov/eco-research/level-iii-and-iv-ecoregions-continental-united-states) with [Ecoregion Classifications of British Columbia](https://catalogue.data.gov.bc.ca/dataset/d00389e0-66da-4895-bd56-39a0dd64aa78).
 - [Indigenous Territories](https://api-docs.native-land.ca/) accessed by connecting to the Native Land Digital API.
 
+## Management recommendations
+- Include species that resist fire [(Giuliano and Lacourse, 2023)](https://doi.org/10.1002/ecs2.4416), [(Brown et al., 2019)](https://doi.org/10.1177/0959683619854523)
+- Large fire will completely change forest and post fire is blank slate canvas [(Crausbay et al., 2017)](https://doi.org/10.1002/ecy.1897)
+- Fire is important to ecosystems [(Pellatt et al., 2015)](https://doi.org/10.1007/s10531-015-0880-1), [(Horrelt et al., 2025)](https://doi.org/10.5194/egusphere-2025-3463)
+- Use paleorecord as baseline condition [(Walsh et al., 2010)](https://doi.org/10.1016/j.palaeo.2010.08.007)
+- No recommendations [(Walsh et al., 2010)](https://doi.org/10.1016/j.quascirev.2010.02.011), [(Walsh et al., 2008)](https://doi.org/10.1016/j.yqres.2008.05.002), [(Sugimura et al., 2007)](https://doi.org/10.1139/X07-186)
+- Prescribed fire but for forests [(Lucas and Lacourse, 2013)](https://doi.org/10.1016/j.yqres.2013.03.001), [(Murphy et al., 2019)](https://doi.org/10.3389/fevo.2019.00090)
+- Fire will lead to increased erosion requiring good water treatment in watershed [(Brown et al., 2022)](https://doi.org/10.1139/cjfr-2022-0020)
+- Indigenous Fire Stewardship [(Walsh et al., 2018)](https://doi.org/10.1177/0309133318783144), [(Derr, 2014)](https://www.jstor.org/stable/43967084)
+
 ## Acknowledgements
 I am grateful to conduct research within the territories of many Coast Salish nations, including the lands of the following nations: [W̱SÁNEĆ, Xʷsepsəm, Songhees, T’Sou-ke, and SC’IȺNEW̱](https://www.whose.land/en/). My work is in deep respect for the importance of Indigenous fire stewardship to functioning ecosystems on these lands. 
 
